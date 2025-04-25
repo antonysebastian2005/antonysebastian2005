@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @antonysebastian2005
-- 👀 I’m interested in Cloud developing
-- 🌱 I’m currently learning webdevelopment basics
-- 💞️ I’m looking to collaborate on cloud server
+
 - 📫 How to reach me antonykaniparampil@gmail.com
 
 <!---
